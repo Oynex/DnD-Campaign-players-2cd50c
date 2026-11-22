@@ -1,0 +1,82 @@
+{
+  "campaignId": "b810fc66-d770-41df-a3f4-6abb139decd2",
+  "name": "Rubicon",
+  "schemaVersion": 1,
+  "mode": "player",
+  "categories": [
+    {
+      "id": "npcs",
+      "label": "NPCs",
+      "folder": "npcs",
+      "icon": "User",
+      "color": "#38BDF8",
+      "statuses": [
+        "alive",
+        "missing",
+        "imprisoned",
+        "dead"
+      ],
+      "extraFields": [
+        "location",
+        "factions",
+        "wants",
+        "voice"
+      ],
+      "playerSafe": true
+    },
+    {
+      "id": "places",
+      "label": "Places",
+      "folder": "places",
+      "icon": "MapPin",
+      "color": "#34D399",
+      "statuses": [
+        "intact",
+        "contested",
+        "ruined",
+        "abandoned",
+        "destroyed"
+      ],
+      "extraFields": [
+        "nation",
+        "parent_location"
+      ],
+      "playerSafe": true
+    },
+    {
+      "id": "factions",
+      "label": "Factions",
+      "folder": "factions",
+      "icon": "Shield",
+      "color": "#F59E0B",
+      "statuses": [
+        "active",
+        "rising",
+        "weakened",
+        "disbanded"
+      ],
+      "extraFields": [
+        "nation",
+        "goal"
+      ],
+      "playerSafe": true
+    },
+    {
+      "id": "quests",
+      "label": "Quests",
+      "folder": "quests",
+      "icon": "Scroll",
+      "color": "#E05353",
+      "statuses": [
+        "rumor",
+        "active",
+        "completed",
+        "failed"
+      ],
+      "extraFields": [
+        "giver"
+      ],
+      "playerSafe": true
+    }
+  ]
+}
