@@ -11,7 +11,8 @@ related:
 location: '[[redbridge-tollhouse]]'
 factions:
   - '[[ironmarch-guard]]'
+  - '[[jo]]'
 wants: A quiet 20gp bribe.
 voice: 'Tired, clipped sentences.'
 ---
-
+CAN you see this

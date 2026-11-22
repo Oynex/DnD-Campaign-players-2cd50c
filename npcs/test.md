@@ -6,7 +6,7 @@ status: alive
 tags: []
 related: []
 location: ''
-factions: ''
+factions: '[[jo]]'
 wants: ''
 voice: ''
 ---
