@@ -77,6 +77,37 @@
         "giver"
       ],
       "playerSafe": true
+    },
+    {
+      "id": "developments",
+      "label": "Developments",
+      "folder": "developments",
+      "icon": "Clock",
+      "color": "#A78BFA",
+      "statuses": [
+        "brewing",
+        "active",
+        "escalating",
+        "resolved"
+      ],
+      "enableClock": true,
+      "playerSafe": true
+    },
+    {
+      "id": "sessions",
+      "label": "Sessions",
+      "folder": "sessions",
+      "icon": "BookOpen",
+      "color": "#F472B6",
+      "statuses": [
+        "planned",
+        "played"
+      ],
+      "extraFields": [
+        "date",
+        "characters_present"
+      ],
+      "playerSafe": true
     }
   ]
 }
