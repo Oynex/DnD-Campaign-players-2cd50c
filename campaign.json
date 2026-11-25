@@ -108,6 +108,61 @@
         "characters_present"
       ],
       "playerSafe": true
+    },
+    {
+      "id": "landmarks",
+      "label": "Landmarks",
+      "folder": "landmarks",
+      "icon": "MapPin",
+      "color": "#E05353",
+      "enableClock": false,
+      "statuses": [
+        "intact",
+        "contested",
+        "destroyed"
+      ],
+      "extraFields": [
+        "era"
+      ],
+      "playerSafe": true
+    },
+    {
+      "id": "technology",
+      "label": "Technology",
+      "folder": "technology",
+      "icon": "Cpu",
+      "color": "#06B6D4",
+      "enableClock": false,
+      "statuses": [
+        "common",
+        "cutting-edge",
+        "experimental",
+        "ancient",
+        "forbidden"
+      ],
+      "extraFields": [
+        "origin",
+        "power_source"
+      ],
+      "playerSafe": true
+    },
+    {
+      "id": "new-folder",
+      "label": "New Folder",
+      "folder": "New folder",
+      "icon": "Layers",
+      "color": "#FB923C",
+      "enableClock": false,
+      "playerSafe": true
+    },
+    {
+      "id": "notion",
+      "label": "Notion",
+      "folder": "notion",
+      "icon": "Folder",
+      "color": "#818CF8",
+      "enableClock": false,
+      "playerSafe": true
     }
   ]
 }
