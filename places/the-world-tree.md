@@ -3,19 +3,19 @@ id: the-world-tree
 type: places
 name: The World Tree
 status: intact
-tags: [world-tree, primordial, sacred, ancient, myth, nature]
-related: [the-serpentine-abyss, rubicon, celestial-dragon-emperor, archon-thessalon]
-nation: "[[neutral-territory]]"
-parent_location: "[[rubicon]]"
+tags: [tree, primordial, sacred, ancient, origin, myth, ocean]
+related: [the-serpentine-abyss, sky-watch, high-mage-teclis, celestial-dragon-emperor, the-thunder-dragon, rubicon]
+nation: "[[the-serpentine-abyss]]"
+parent_location: "[[the-serpentine-abyss]]"
 ---
 
 ## Overview
-Rising from a solitary verdant island-plateau across the treacherous expanse of **[[the-serpentine-abyss]]**, the World Tree is the **oldest living entity on [[rubicon]]**, dating back **millions of years** to the primordial formation of the cosmos. 
+Standing at the absolute center of **[[the-serpentine-abyss]]**, surrounded by perpetual storm squalls, towering fog walls, and treacherous reefs, lies **The World Tree**. 
 
-Its colossal trunk and cloud-piercing canopy dwarf mountain ranges, cradled by ancient mists and guarded by the serpentine leviathans of the deep. To the modern civilizations of the world, the World Tree has devolved into an ethereal myth—a legendary concept debated by philosophers and dismissed by pragmatic merchants.
+Millions of years old, it is the **oldest living entity on [[rubicon]]**. While younger mortal civilizations treat the Tree as a poetic myth from bedtime fables, its titanic trunk—miles wide and soaring through the clouds—anchors the primordial vitality of the world.
 
 > [!read-aloud]
-> Breaking through the impenetrable outer sea mists, an awe-inspiring vision of primordial majesty defies mortal imagination. A colossal tree of unfathomable proportions rises from an emerald island canopy, its titanic roots plunging into the ocean abyss and its cloud-ringed crown cradling the sky. A profound, sacred stillness radiates from its boughs, as if the breath of the world itself originates from its leaves.
+> Breaking through the churning wall of fog, the sea abruptly turns into a mirror of luminescent sapphire. Looming miles ahead stands a tree of impossible, staggering scale. Roots thicker than mountain ranges plunge into the ocean depths, while its iridescent emerald canopy branches across the upper atmosphere, shimmering with ribbons of celestial starlight that illuminate the ocean for leagues around.
 
 ## Ancient Inscriptions & Forgotten Voyagers
 While the High Elves enforce an embargo around the sea, ancient stone murals, lost codices, and tablet fragments unearthed in forgotten ruins across Rubicon make unmistakable references to the Tree:
@@ -25,4 +25,4 @@ While the High Elves enforce an embargo around the sea, ancient stone murals, lo
 ## The Keepers of Living Memory
 While younger races treat the Tree as an allegory, truly ancient, unbroken lineages possess firsthand or ancestral knowledge of its reality:
 - **The Serpentine Dragons of [[celestial-empire-of-grand-cathay|Grand Cathay]]:** The [[celestial-dragon-emperor]] and [[the-thunder-dragon]], whose primordial line witnessed the world's dawn.
-- **The Eldest of the Asur:** Millennium-old elven patriarchs such as [[archon-thessalon]] and the inner circle of the [[crystal-tower]].
+- **The Eldest of the Asur:** Millennium-old elven archmages such as [[high-mage-teclis]] and the inner circle of the [[crystal-tower]].

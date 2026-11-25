@@ -4,7 +4,7 @@ type: npcs
 name: Lady Vivienne Astellion
 status: alive
 tags: [noble, councilor, astellion, scholar, magic, ally]
-related: [council-of-cyrodil, loremaster-edric-astellion, cyrodil]
+related: [council-of-cyrodil, cyrodil, academy-of-daggerfall]
 location: "[[imperial-city]]"
 factions: "[[council-of-cyrodil]]"
 wants: "Unravel planar anomalies and safeguard the realm from ancient cosmological cataclysms."
