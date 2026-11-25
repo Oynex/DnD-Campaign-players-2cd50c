@@ -4,7 +4,7 @@ type: factions
 name: Order of the Ethereal Sigil
 status: active
 tags: [mages, daggerfall, academy, arcane]
-related: [daggerfall, academy-of-daggerfall, archmage-aldwyn, magister-lysindra-voss, loremaster-edric-moth]
+related: [daggerfall, academy-of-daggerfall, archmage-aldwyn, magister-lysindra-voss, loremaster-edric-astellion]
 nation: "[[cyrodil]]"
 goal: "Advance the human frontiers of magical research and secure the Academy of Daggerfall."
 ---
@@ -18,6 +18,6 @@ The elite circle of archmages who govern the arcane affairs of [[daggerfall]] an
 ## Conclave Leadership
 - **Magister Primus:** [[archmage-aldwyn]] - Visionary headmaster obsessed with pushing magical frontiers.
 - **Security & Wards:** [[magister-lysindra-voss]] - Oversees academy security and ward maintenance.
-- **Traditions & Archives:** [[loremaster-edric-moth]] - Moral conscience and guardian of dangerous knowledge.
-- **Academic Relations & Politics:** [[arcanist-jorrel-tharn]] - Charismatic lecturer and political maneuverer.
+- **Traditions & Archives:** [[loremaster-edric-astellion]] - Moral conscience and guardian of dangerous knowledge.
+- **Academic Relations & Politics:** [[arcanist-jorrel-sterling]] - Charismatic lecturer and political maneuverer.
 - **Enchantments & Supply:** [[mistress-sabine-hlaalu]] - Oversees commercial magical applications and funding.

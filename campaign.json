@@ -145,24 +145,6 @@
         "power_source"
       ],
       "playerSafe": true
-    },
-    {
-      "id": "new-folder",
-      "label": "New Folder",
-      "folder": "New folder",
-      "icon": "Layers",
-      "color": "#FB923C",
-      "enableClock": false,
-      "playerSafe": true
-    },
-    {
-      "id": "notion",
-      "label": "Notion",
-      "folder": "notion",
-      "icon": "Folder",
-      "color": "#818CF8",
-      "enableClock": false,
-      "playerSafe": true
     }
   ]
 }

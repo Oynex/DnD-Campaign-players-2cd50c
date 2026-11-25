@@ -4,16 +4,16 @@ type: places
 name: The Immortal Bastion
 status: intact
 tags: [fortress, capital, noxus, citadel]
-related: [noxus, tamriel]
+related: [noxus, aethelgard, rubicon]
 nation: "[[noxus]]"
 parent_location: "[[noxus]]"
 ---
 
 ## Overview
-The central stronghold of [[noxus]], an immense granite and dark iron citadel dating back millennia before the rise of the current empire.
+The central stronghold and capital citadel of [[noxus]], situated in the northeastern highlands of [[aethelgard]]. An immense granite and dark iron citadel dating back millennia before the rise of the current empire.
 
 > [!read-aloud]
-> An oppressive obsidian colossus towering hundreds of spans above the jagged city streets. Its gargantuan bastions and iron spikes loom like a predator crouched over the surrounding empire.
+> An oppressive obsidian colossus towering hundreds of spans above the jagged city streets. Its gargantuan bastions and iron spikes loom like a predator crouched over the surrounding empire, echoing with the cadence of marching legionnaires.
 
 ## Role
-Houses the supreme command of the Noxian war councils, the grand armories, and deep subterranean vaults whose contents remain state secrets.
+Houses the supreme command of the Noxian war councils, the grand armories, and deep subterranean vaults whose contents remain state secrets. From here, orders are dispatched across the subjugated eastern territories to reinforce the siege lines outside [[rivendel]].

@@ -3,14 +3,14 @@ id: steam
 type: technology
 name: Steam Power
 status: common
-tags: [technology, industry, mechanical, redoran]
-related: [thaddeus-redoran, lady-gwynora-armorer, cyrodil]
-origin: "House Redoran engineering foundries"
+tags: [technology, industry, mechanical, corvan]
+related: [thaddeus-corvan, cyrodil]
+origin: "House Corvan engineering foundries"
 power_source: "Boiled water heated by coal, wood, or fire-enchanted furnaces"
 ---
 
 ## Overview
-The mechanical backbone of modern industrial commerce on [[tamriel]]. Developed and perfected over generations by the engineers of House Redoran and the smiths of House Armorer, steam technology powers locomotives, pumping works, factory presses, and heavy mining machinery.
+The mechanical backbone of modern industrial commerce on [[tamriel]]. Developed and perfected over generations by the engineers of House Corvan, steam technology powers locomotives, pumping works, factory presses, and heavy mining machinery.
 
 > [!read-aloud]
 > Giant iron boilers hiss with pressurized vapor, their massive pistons churning with thunderous mechanical rhythm. Chimneys exhale black coal smoke over bustling foundries where steel rails and locomotive wagons are forged day and night.

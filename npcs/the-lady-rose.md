@@ -20,10 +20,3 @@ The legendary founder of [[the-order-of-the-graveyard-rose]]. According to ancie
 ## The Myth & The Reality
 - **Public Perception:** Regarded across [[tamriel]] as a compassionate folk legend—a patron saint of orphanages, hospitals, and hopeless causes.
 - **The Ten Roses:** Elite demigod-level champions who serve as her direct instruments, executing interventions when global balance is endangered.
-
----
-
-## DM Secrets & The First Seat
-> [!NOTE]
-> **DM Only Information:**
-> The Lady Rose is real, immortal, and fully active. She currently occupies the **First Seat of the Guild Council** within the Inner Ring of [[the-ring-city]], operating in plain sight under a quiet guise. From this position, she influences global banking, shipping lines, and diplomatic movements, utilizing her worldwide network of relief houses to gather intelligence and safeguard the world.
