@@ -167,15 +167,6 @@
         "sacred_sites"
       ],
       "playerSafe": true
-    },
-    {
-      "id": "religions",
-      "label": "Religions",
-      "folder": "religions",
-      "icon": "Compass",
-      "color": "#A3E635",
-      "enableClock": false,
-      "playerSafe": true
     }
   ]
 }

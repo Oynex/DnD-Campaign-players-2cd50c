@@ -1,12 +1,12 @@
 ---
 id: the-world-tree
-type: places
+type: landmarks
 name: The World Tree
 status: intact
-tags: [tree, primordial, sacred, ancient, origin, myth, ocean]
+tags: [landmark, tree, primordial, sacred, ancient, origin, myth, ocean]
 related: [the-serpentine-abyss, sky-watch, high-mage-teclis, celestial-dragon-emperor, the-thunder-dragon, rubicon]
 nation: "[[the-serpentine-abyss]]"
-parent_location: "[[the-serpentine-abyss]]"
+era: "Primordial / Dawn of Time"
 ---
 
 ## Overview

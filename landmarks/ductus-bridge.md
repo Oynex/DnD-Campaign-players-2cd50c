@@ -1,12 +1,12 @@
 ---
 id: ductus-bridge
-type: places
+type: landmarks
 name: Ductus Bridge
 status: intact
-tags: [bridge, landmark, engineering, megastructure, trade]
+tags: [landmark, bridge, engineering, megastructure, trade]
 related: [cyrodil, khazad-dum, gundabad, tamriel, thaddeus-corvan, merchant-prince-cedric-sterling]
 nation: "[[cyrodil]]"
-parent_location: "[[tamriel]]"
+era: "Ancient"
 ---
 
 ## Overview

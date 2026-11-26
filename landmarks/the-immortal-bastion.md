@@ -1,12 +1,12 @@
 ---
 id: the-immortal-bastion
-type: places
+type: landmarks
 name: The Immortal Bastion
 status: intact
-tags: [fortress, capital, noxus, citadel, sahn-uzal, mordekaiser, history]
-related: [noxus, aethelgard, leblanc, swain, darius, noxian-trifarix, prince-liam-of-stormwind, rubicon]
+tags: [landmark, fortress, capital, noxus, citadel, sahn-uzal, mordekaiser, history]
+related: [noxus, aethelgard, leblanc, swain, darius, noxian-trifarix, prince-liam-of-stormwind, rubicon, sahn-uzal]
 nation: "[[noxus]]"
-parent_location: "[[noxus]]"
+era: "Ancient / Sahn-Uzal Era"
 ---
 
 ## Overview

@@ -1,12 +1,12 @@
 ---
 id: crystal-tower
-type: places
+type: landmarks
 name: Crystal Tower
 status: intact
-tags: [tower, monument, magic, elves, leyline, summerset, kynarism]
+tags: [landmark, tower, monument, magic, elves, leyline, summerset, kynarism]
 related: [summerset-isle, alinor, high-mage-teclis, alith-anar, daggerfall, piltover, kynarism]
 nation: "[[summerset-isle]]"
-parent_location: "[[summerset-isle]]"
+era: "Ancient / Dawn Era"
 ---
 
 ## Overview

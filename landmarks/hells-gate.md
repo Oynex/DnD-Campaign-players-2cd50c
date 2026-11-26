@@ -1,12 +1,12 @@
 ---
 id: hells-gate
-type: places
+type: landmarks
 name: Hells Gate
 status: intact
-tags: [megastructure, wall, fortress, defense, dragons, cathay]
+tags: [landmark, megastructure, wall, fortress, defense, dragons, cathay]
 related: [celestial-empire-of-grand-cathay, the-thunder-dragon, cathay]
 nation: "[[celestial-empire-of-grand-cathay]]"
-parent_location: "[[cathay]]"
+era: "1,500 Years Ago (The Cataclysm)"
 ---
 
 ## Overview
