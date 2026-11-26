@@ -4,7 +4,7 @@ type: places
 name: The Ring City
 status: intact
 tags: [metropolis, trade, capital, neutral, guilds, naval, richest, containment]
-related: [the-order-of-the-graveyard-rose, the-lady-rose, summerset-isle, sky-watch, waning-of-the-containment-fleet, rubicon]
+related: [the-order-of-the-graveyard-rose, summerset-isle, sky-watch, waning-of-the-containment-fleet, rubicon]
 nation: "[[neutral-territory]]"
 parent_location: "[[rubicon]]"
 ---
@@ -22,8 +22,8 @@ Over centuries, handling the collective defense budget and maritime logistics of
 
 ## The Three Rings & Global Guilds
 - **The Outer Ring:** Sprawling merchant docks, shipyards, deepwater warehouses, and international bazaars.
-- **The Middle Ring:** The world headquarters for every major vocational guild (Merchant, Crafting, Scholar, Healer, and Adventurer Guilds).
-- **The Inner Ring:** The seat of supreme authority, housing the grand assembly halls of the **Guild Council**.
+- **The Middle Ring:** The world headquarters for every major vocational guild (Merchant, Crafting, Scholar, Healer, and Adventurer Guilds), alongside major relief hospices of [[the-order-of-the-graveyard-rose]].
+- **The Inner Ring:** The seat of supreme authority, housing the grand assembly halls and secretive executive chambers of the **Guild Council**.
 
 ## The Waning Containment Fleet
 While the Ring City remains formally allied with **[[fleet-admiral-aislyn]]** and the **Asur (High Elves)** of **[[sky-watch]]**, the 1,500-year-old defense pact is unraveling:

@@ -2,21 +2,24 @@
 id: the-lady-rose
 type: npcs
 name: The Lady Rose
-status: alive
-tags: [legend, founder, the-lady-rose, myth, kind]
-related: [the-order-of-the-graveyard-rose, the-ring-city, rubicon]
-location: "[[the-ring-city]]"
+status: dead
+tags: [legend, founder, the-lady-rose, myth, folk-hero, saint]
+related: [the-order-of-the-graveyard-rose, rubicon]
+location: "[[rubicon]]"
 factions: "[[the-order-of-the-graveyard-rose]]"
-wants: "Shield the innocent, nurture kindness, and preserve civilization from unseen horrors."
-voice: "Radiant, sorrowful, overflowing with unfathomable maternal love and quiet, absolute authority."
+wants: "Immortalized in song and faith as the universal beacon of unconditional kindness and mercy."
+voice: "Spoken of in bedtime fables as soft, sorrowful, radiating boundless maternal warmth."
 ---
 
 ## Overview
-The legendary founder of [[the-order-of-the-graveyard-rose]]. According to ancient lore, she was a mortal woman whose love and compassion were so profound that when she died, a miraculous rose bloomed through the solid stone of her grave—and she stepped forth resurrected, transformed by forces beyond mortal understanding.
+The legendary patron and namesake of **[[the-order-of-the-graveyard-rose]]**. In popular folklore across [[rubicon]], The Lady Rose is revered as a mortal woman of miraculous compassion who lived centuries ago, dedicating her brief life to caring for plague victims, war orphans, and the forgotten.
+
+According to folk legend, when she eventually passed away from exhaustion, a single extraordinary rose of deep crimson bloomed through the solid stone slab of her tomb. Inspired by this miracle, her followers founded the worldwide network of clinics and orphanages that carries her name today.
 
 > [!read-aloud]
-> A fragrance of wild blooming roses drifts through the air, bringing an inexplicable sense of warmth, peace, and quiet hope even in the darkest hollows. Though scholars debate whether she walks this earth or exists only as a guiding ideal, those who serve her carry an unshakeable faith that she watches over the brokenhearted.
+> Stained-glass icons and small wooden figurines in roadside shrines depict a serene, veiled woman cradling a blooming rose in scarred, calloused hands. To the impoverished and the grieving across the world, she is not a distant deity of grand temples, but a gentle guardian who watches over those whom the world has cast aside.
 
-## The Myth & The Reality
-- **Public Perception:** Regarded across [[tamriel]] as a compassionate folk legend—a patron saint of orphanages, hospitals, and hopeless causes.
-- **The Ten Roses:** Elite demigod-level champions who serve as her direct instruments, executing interventions when global balance is endangered.
+## Folk Belief & Scholarly Debate
+- **Patron of the Helpless:** Common folk, peasants, and healers venerate her memory much like a folk saint, lighting small candles at clinic shrines for good health and safe childbirth.
+- **The Ten Roses in Myth:** Fables tell that before she died, she bestowed her blessing upon ten extraordinary champions, tasking them with roaming the world as the "Ten Roses" to protect the weak whenever mortal evil grew too great.
+- **Academic Skepticism:** Scholars in Cyrodiil and Alinor generally view her as a composite historical figure or a romanticized allegory created to inspire charitable giving, though none can deny the enduring good accomplished in her name.
