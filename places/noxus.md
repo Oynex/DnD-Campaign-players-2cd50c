@@ -10,7 +10,9 @@ parent_location: "[[aethelgard]]"
 ---
 
 ## Overview
-A colossal, militaristic expansionist empire that has rapidly risen to become the undisputed superpower of eastern [[aethelgard]]. Driven by a brutal meritocratic philosophy where strength, cunning, and utility to the state dictate one's standing, Noxus respects neither ancient nobility nor peaceful borders.
+A colossal, militaristic expansionist empire that has rapidly risen to become the undisputed superpower of eastern [[aethelgard]]. Driven by a brutal meritocratic philosophy where strength, cunning, and utility to the state dictate one's standing, Noxus respects neither ancient nobility, peaceful borders, nor holy religions.
+
+Noxus is governed by a doctrine of **absolute state anti-theism**: the empire despises organized religion, viewing gods as arrogant celestial parasites and priesthoods as corrupt instruments of weakness designed to keep mortals docile. As the legions expand, **Noxus systematically suppresses, dismantles, and exterminates all traditional religions** in conquered lands—demolishing temples, executing resistant clergy, banning holy tithes, and teaching citizens that their only devotion belongs to their own inner might and the glory of the imperial state.
 
 The empire is ruled from [[the-immortal-bastion]] by the **Noxian Trifarix**, a triumvirate of three supreme leaders representing the core pillars of imperial power:
 - **Vision:** Grand General **[[swain|Jericho Swain]]**, master tactician possessing demonic foresight.
@@ -19,6 +21,14 @@ The empire is ruled from [[the-immortal-bastion]] by the **Noxian Trifarix**, a 
 
 > [!read-aloud]
 > Blood-red standards bearing the iron crest of Noxus ripple above monumental stepped ziggurats and obsidian parade grounds. Centurions in spiked black iron armor direct endless columns of legionnaires, war beasts, and heavy siege engines, all marching under the shadow of the colossal warlord statue guarding the harbor.
+
+## State Anti-Theism & The Purge of the Gods
+The Noxian philosophy regarding the divine is unyielding:
+- **Might Above Divinity:** A true Noxian bows to no god, angel, or spirit. The empire teaches that if a god possessed true strength, it would not beg for prayers or hide behind golden priests. Therefore, mortal will and steel are supreme.
+- **Systematic Deicide & Cultural Cleansing:** Upon conquering new territories, Noxian commissars seize church treasuries, melt down holy relics into legionary coins, and outlaw public rites. 
+  - In the conquered kingdoms of eastern Aethelgard (**[[stormwind]]**, **[[east-fall]]**, and **[[duskwood]]**), Noxian legions systematically annihilated **[[the-radiant-covenant]]**, pulling down its grand solar basilicas, executing its patriarchs, and melting its golden sun-altars into legionary plate.
+  - In **[[durotar]]**, they banned the ancient ancestral drumming of **[[the-two-deaths]]**, forcing orc warriors into secular shock cohorts.
+- **Contempt for the West and South:** Noxus regards the holy cathedrals of **[[orthodox-malorism]]** in Cyrodiil and the ancestral reverences of other nations as pathetic crutches that make societies soft, decadent, and ripe for the harvest.
 
 ## The Founding Oath: Freedom from Tyrants
 The foundational culture of Noxus is rooted in ancient rebellion:

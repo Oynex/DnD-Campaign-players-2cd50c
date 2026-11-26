@@ -145,6 +145,37 @@
         "power_source"
       ],
       "playerSafe": true
+    },
+    {
+      "id": "religions",
+      "label": "Religions",
+      "folder": "religions",
+      "icon": "Sun",
+      "color": "#FBBF24",
+      "enableClock": false,
+      "statuses": [
+        "dominant",
+        "widespread",
+        "minority",
+        "fading",
+        "forbidden"
+      ],
+      "extraFields": [
+        "pantheon",
+        "deity",
+        "primary_region",
+        "sacred_sites"
+      ],
+      "playerSafe": true
+    },
+    {
+      "id": "religions",
+      "label": "Religions",
+      "folder": "religions",
+      "icon": "Compass",
+      "color": "#A3E635",
+      "enableClock": false,
+      "playerSafe": true
     }
   ]
 }

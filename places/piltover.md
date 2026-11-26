@@ -17,9 +17,18 @@ The source of Piltover’s meteoric rise is an unprecedented abundance of radian
 > [!read-aloud]
 > Gilded towers, soaring bridges, and gleaming copper domes glitter against the coastal sunset. Giant clockwork mechanisms click in rhythmic perfection within ivory facades, while sleek airships glide silently through the clouds. Near the glowing crystalline quarries outside the city, the air crackles with intense, hair-raising static energy.
 
-## The Magitech Boom & Overexploitation
-- **Industrial Miracle:** Piltover refines the raw crystals into standardized power matrices, driving automated factory lines, crystal-charged firearms, energy shields, and long-range telegraph networks.
-- **Ruthless Extraction:** The city's merchant houses and artificer clans are strip-mining the crystal deposits at a reckless pace to feed their skyrocketing economy and to manufacture advanced defense systems for [[rivendel]] against [[noxus]].
+## The Tri-Cornered Power Struggle
+Piltover has no king and has never bowed to a church. Instead, the city is locked in an incestuous, high-stakes three-way war of leverage between three competing factions:
+1. **The Corporate Directorate ([[council-of-piltover]]):** Five titanic conglomerates (*Aethelgard Magitech-Refining Ltd, Krom & Sons Locomotive (KSL), The Aether-Weave Munitions, Bio-Synthetica, Trans-Continental Crystal Network (TCCN)*) who control the crystal mines, patent offices, automated assembly spires, and export fleets.
+2. **The Old Noble Patriciate ([[high-patricians-of-piltover]]):** Four ancient landed dynasties (*House Delacroix, House Valmont, House Beauchamp, House Castillon*) who predate the crystal boom, controlling the municipal senate, historical real estate, and constitutional law.
+3. **The Sump Syndicates ([[the-sump-syndicate]]):** Ruthless chem-lords and smuggling cartels who control the subterranean factory slums, black-market crystal siphons, and thousands of desperate workers.
+
+Because many old nobles secretly own shares in the corporate conglomerates, while several crime barons operate legitimate patent trusts or bankroll noble debts, the alliances in Piltover shift like quicksilver with every ringing of the trade bell.
+
+## The Emerging Underground Faith: The Broken Cycle
+While the upper city prides itself on secular rationality, scientific mastery, and industrial capitalism, a revolutionary new religion is tearing through the factory sumps:
+- **[[the-broken-cycle]]:** Hundreds of thousands of exploited crystal miners, smelter hands, and pipe workers have embraced a clandestine cult that views the industrial machine as a demonic clockwork prison.
+- Worshipping urban legends of the "Great Lever" and bearing tattoos of cracked brass cogs, they prepare for an inevitable subterranean uprising to shatter the corporate status quo and liberate the human cogs of Piltover.
 
 ## Emerging Hidden Instability
 Beneath the glittering prosperity, the city’s top engineers and guildmasters harbor a growing, closely guarded panic:
