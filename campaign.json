@@ -131,7 +131,7 @@
       "label": "Technology",
       "folder": "technology",
       "icon": "Cpu",
-      "color": "#06B6D4",
+      "color": "#A78BFA",
       "enableClock": false,
       "statuses": [
         "common",
