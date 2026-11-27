@@ -3,10 +3,21 @@ id: rubicon
 type: places
 name: Rubicon
 status: intact
-tags: [world, setting, plane, continents]
-related: [tamriel, northrend, summerset-isle, aethelgard, cathay, the-ring-city, the-serpentine-abyss, the-world-tree]
-nation: "[[rubicon]]"
-parent_location: ""
+tags:
+  - world
+  - setting
+  - plane
+related:
+  - tamriel
+  - northrend
+  - summerset-isle
+  - aethelgard
+  - cathay
+  - the-ring-city
+  - the-serpentine-abyss
+  - the-world-tree
+nation: '[[rubicon]]'
+parent_location: ''
 ---
 
 ## Overview
