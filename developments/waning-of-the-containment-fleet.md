@@ -4,13 +4,13 @@ type: developments
 name: Waning of the Containment Fleet
 status: escalating
 tags: [crisis, naval, politics, history, southern-wastes, clock]
-related: [the-ring-city, summerset-isle, sky-watch, fleet-admiral-aislyn, cathay]
+related: [the-ring-city, summerset-isle, sky-watch, fleet-admiral-aislyn, cathay, the-grand-aegis-fleet, high-council-of-the-ring-city]
 clock_filled: 2
 clock_total: 6
 ---
 
 ## Overview
-Fifteen hundred years ago, a catastrophic, world-threatening evil surged from the volcanic ash wastes of the southern continent. In response, every mortal nation of [[rubicon]] united under a historic covenant, pooling their ships, wealth, and warriors to establish a permanent oceanic cordon: **The Containment Fleet**. 
+Fifteen hundred years ago, a catastrophic, world-threatening evil surged from the volcanic ash wastes of the southern continent. In response, every mortal nation of [[rubicon]] united under a historic covenant, pooling their ships, wealth, and warriors to establish a permanent oceanic cordon: **[[the-grand-aegis-fleet|The Grand Aegis Fleet]]** (The Containment Fleet). 
 
 Support, maritime tithes, and replacement vessels from all nations were routed through **[[the-ring-city]]**, turning the neutral island into the supreme economic clearinghouse and naval colossus of the world, operating in tandem with the high elven armada of **[[sky-watch]]**.
 

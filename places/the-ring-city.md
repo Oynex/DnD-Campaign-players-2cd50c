@@ -21,11 +21,11 @@ The Ring City did not achieve superpower status through commerce alone. **Fiftee
 Over centuries, handling the collective defense budget and maritime logistics of the entire world transformed the city into the premier banking capital and naval armada of Rubicon.
 
 ## The Three Rings & Global Guilds
-- **The Outer Ring:** Sprawling merchant docks, shipyards, deepwater warehouses, and international bazaars.
-- **The Middle Ring:** The world headquarters for every major vocational guild (Merchant, Crafting, Scholar, Healer, and Adventurer Guilds), alongside major relief hospices of [[the-order-of-the-graveyard-rose]].
-- **The Inner Ring:** The seat of supreme authority, housing the grand assembly halls and secretive executive chambers of the **Guild Council**.
+- **The Outer Ring:** Sprawling merchant docks, naval drydocks for **[[the-grand-aegis-fleet]]**, deepwater warehouses, and international bazaars.
+- **The Middle Ring:** The world headquarters for the Ten Great Vocational Guilds (such as **[[the-iron-bank-of-the-three-rings]]**, **[[the-oceanic-navigators-league]]**, **[[the-alchemical-conclave]]**, **[[the-mercenary-brotherhood]]**, and **[[the-silken-exchange]]**), alongside the major public relief hospices of **[[the-order-of-the-graveyard-rose]]**.
+- **The Inner Ring:** The seat of supreme authority, housing the Grand Spire of Concord where **[[high-council-of-the-ring-city|The High Council of the Ring City]]** convenes to govern global commerce and planetary defense.
 
 ## The Waning Containment Fleet
 While the Ring City remains formally allied with **[[fleet-admiral-aislyn]]** and the **Asur (High Elves)** of **[[sky-watch]]**, the 1,500-year-old defense pact is unraveling:
 - Shorter-lived continental empires (Cyrodiil, Noxus) have begun withholding their mandatory fleet subsidies, viewing the ancient southern threat as distant folklore.
-- As funding dwindles, Ring City war galleons sit undermanned or are diverted into lucrative private merchant escorts, accelerating the [[waning-of-the-containment-fleet]].
+- As funding dwindles, Ring City war galleons of **[[the-grand-aegis-fleet]]** sit undermanned or are diverted into lucrative private merchant escorts, accelerating the **[[waning-of-the-containment-fleet]]**.

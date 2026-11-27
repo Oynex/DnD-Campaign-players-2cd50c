@@ -5,5 +5,37 @@
   "width": 8192,
   "height": 4682,
   "playerSafe": true,
-  "pins": []
+  "pins": [
+    {
+      "id": "pin-1795768848227-fs1kd",
+      "entityId": "alinor",
+      "label": "Alinor",
+      "category": "places",
+      "x": 4.5422,
+      "y": 62.7319,
+      "note": "Capital of Summerset Isle",
+      "playerSafe": true
+    },
+    {
+      "id": "pin-1795769569189-6w56d",
+      "entityId": "imperial-city",
+      "label": "Imperial City",
+      "category": "places",
+      "x": 13.1542,
+      "y": 28.496,
+      "note": "Capital of Cyrodill",
+      "playerSafe": true
+    },
+    {
+      "id": "pin-1795769614309-141u5",
+      "entityId": "holy-city-of-vivec",
+      "label": "Holy City of Vivec",
+      "category": "places",
+      "x": 17.4602,
+      "y": 39.077,
+      "icon": "Landmark",
+      "note": "Birthplace of Malorism",
+      "playerSafe": true
+    }
+  ]
 }

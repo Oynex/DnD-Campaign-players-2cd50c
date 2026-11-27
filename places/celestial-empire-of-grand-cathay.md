@@ -26,8 +26,9 @@ The ruling dynasty of Cathay are **Loong dragons**—divine, sentient serpentine
 
 ## Major Provinces & Cities
 - **[[nan-gau]]:** The ancient capital and the first recorded mortal settlement in world history, situated where four great serpentine rivers diverge.
+- **[[the-rune-desert]]:** The vast, mana-sapped wasteland west of Nan-Gau, ruined 5,000 years ago by catastrophic runic crystal feedback.
+- **[[ryuko]]:** The sun-bleached western port holding dominion over the Rune Desert, governed by [[dragon-prince-xian]].
 - **[[hana-no-miyako]]:** The breathtaking northern mountain province shrouded in pink cherry blossoms, governed by [[dragon-princess-zhao]].
-- **[[ryuko]]:** The sun-bleached western port on the **Rune Desert**, governed by [[dragon-prince-xian]].
 - **[[yunshan-isles]]:** The eastern floating mountain archipelago on the Dread Sea, governed by [[dragon-prince-longwei]].
 - **[[hells-gate]]:** The monumental red Great Wall raised 1,500 years ago by [[the-thunder-dragon]] to seal off the southern volcanic horrors.
 

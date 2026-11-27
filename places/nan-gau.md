@@ -22,3 +22,8 @@ Back when the world was still maturing—when High Elves lived in untamed woods 
 - Their final showdown occurred where Nan-Gau stands today, shattering the continental bedrock.
 - From that impact point, **four colossal rivers flow in four directions**, carving serpentine curves across the empire into the outer seas.
 - Following his victory, the Dragon Emperor took human form, gathered the primitive tribes who worshipped him, and founded Nan-Gau as the cradle of civilization.
+
+## The Western Frontier: The Rune Desert
+Directly west of the river-fed green plains of Nan-Gau lie the desolate white dunes of **[[the-rune-desert]]**:
+- **Echo of Cataclysm:** Five thousand years ago, the over-exploitation of **[[runic-magic-crafting]]** and massive magical crystal disasters sapped the western lands of all ambient mana, creating a vast dead wasteland.
+- **The Imperial Edict:** Following the disaster, the Emperor banned all uncertified runic magic for the general populace, establishing the **[[guild-of-imperial-runesmiths]]** in Nan-Gau to keep the ancient art strictly regulated, alive, and in service to the throne.
